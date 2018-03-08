@@ -1,0 +1,29 @@
+->Docker containers can help decouple applications from systems so that developers on focus on code and systems people can focus on systems. 
+
+->Docker can be used to isolate one or many unpredictable or untested application services by containerizing individual services. 
+
+->Docker can be used to reduce the complexity of apps making it easier to maintain, secure and upgrade them. 
+
+->Disk can be reduced by using common base images, and CPU usage is reduced by only have one set of OS processes per n containers.
+
+->Docker containers are being use to simplify complex deployments. A great example is High Performance Computing.
+
+->we use Docker to develop pre-configured, ready to run software containers to ease the challenges for development and execution of High Performance
+  Computing (HPC) applications in public and private cloud environments.
+
+->We believe simplification of complex deployments, by moving much of the complexity to build time is one of the most solid use cases for 
+  Docker containers. Organizations can save valuable time and money by building containers which bundle OS, tools, applications,configuration,
+  all in one and making their deployments easy and repeatable.
+
+->Manage the life-cycle of Docker-based micro-services to facilitate backups, container updates using tested & certified scripts, auto-scaling,
+  and Isa said, continuous delivery using Jenkins or any other build server to continuously update a container with the latest build.
+
+->As a web developer you might be developing on your local engine. Minimizing the differences between your local environment and production
+  help us to avoid last minute changes because of configuration differences.
+
+->Setting up testing environments with Docker containers is super-easy. Thinking about all those different frameworks and databases, as well 
+  as different versions of python for example, testing in a virtualized environment has become a true challenge.
+
+->if you want to install different versions of python or any other library, Docker containers are your solution. You can simple install a library
+  in a container, compare it with a different library version from another container, play around with it and throw it away afterwards without any risk.
+
